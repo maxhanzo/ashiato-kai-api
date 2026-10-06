@@ -1,0 +1,29 @@
+{
+  "name": "ashiato-kai-api",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy --minify",
+    "cf-typegen": "wrangler types --env-interface CloudflareBindings",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-transform-types --test tests/*.test.mjs",
+    "geodata:build": "node scripts/build-geolocation.mjs",
+    "geodata:build:historical": "node scripts/build-historical-geolocation.mjs",
+    "geodata:build:all": "npm run geodata:build && npm run geodata:build:historical"
+  },
+  "dependencies": {
+    "hono": "^4.13.12"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "mapshaper": "0.6.113",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.110.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true,
+    "fsevents@2.3.3": true,
+    "workerd@1.20261001.1": true
+  }
+}

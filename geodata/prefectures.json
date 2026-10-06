@@ -1,0 +1,707 @@
+[
+  {
+    "PrefectureCode": "01",
+    "PrefectureName": "Hokkaido",
+    "PrefectureNameJapanese": "北海道",
+    "CapitalName": "Sapporo",
+    "CapitalNameJapanese": "札幌市",
+    "CapitalCoordinates": [
+      141.346878,
+      43.064323
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8C%97%E6%B5%B7%E9%81%93",
+    "CapitalSourceTitle": "北海道",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "02",
+    "PrefectureName": "Aomori",
+    "PrefectureNameJapanese": "青森県",
+    "CapitalName": "Aomori",
+    "CapitalNameJapanese": "青森市",
+    "CapitalCoordinates": [
+      140.740555,
+      40.824589
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%9D%92%E6%A3%AE%E7%9C%8C",
+    "CapitalSourceTitle": "青森県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "03",
+    "PrefectureName": "Iwate",
+    "PrefectureNameJapanese": "岩手県",
+    "CapitalName": "Morioka",
+    "CapitalNameJapanese": "盛岡市",
+    "CapitalCoordinates": [
+      141.152695,
+      39.703526
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B2%A9%E6%89%8B%E7%9C%8C",
+    "CapitalSourceTitle": "岩手県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "04",
+    "PrefectureName": "Miyagi",
+    "PrefectureNameJapanese": "宮城県",
+    "CapitalName": "Sendai",
+    "CapitalNameJapanese": "仙台市",
+    "CapitalCoordinates": [
+      140.87207,
+      38.268578
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%AE%AE%E5%9F%8E%E7%9C%8C",
+    "CapitalSourceTitle": "宮城県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "05",
+    "PrefectureName": "Akita",
+    "PrefectureNameJapanese": "秋田県",
+    "CapitalName": "Akita",
+    "CapitalNameJapanese": "秋田市",
+    "CapitalCoordinates": [
+      140.102386,
+      39.718624
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A7%8B%E7%94%B0%E7%9C%8C",
+    "CapitalSourceTitle": "秋田県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "06",
+    "PrefectureName": "Yamagata",
+    "PrefectureNameJapanese": "山形県",
+    "CapitalName": "Yamagata",
+    "CapitalNameJapanese": "山形市",
+    "CapitalCoordinates": [
+      140.363693,
+      38.240433
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+    "CapitalSourceTitle": "山形県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "07",
+    "PrefectureName": "Fukushima",
+    "PrefectureNameJapanese": "福島県",
+    "CapitalName": "Fukushima",
+    "CapitalNameJapanese": "福島市",
+    "CapitalCoordinates": [
+      140.467773,
+      37.750031
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+    "CapitalSourceTitle": "福島県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "08",
+    "PrefectureName": "Ibaraki",
+    "PrefectureNameJapanese": "茨城県",
+    "CapitalName": "Mito",
+    "CapitalNameJapanese": "水戸市",
+    "CapitalCoordinates": [
+      140.446823,
+      36.341736
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+    "CapitalSourceTitle": "茨城県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "09",
+    "PrefectureName": "Tochigi",
+    "PrefectureNameJapanese": "栃木県",
+    "CapitalName": "Utsunomiya",
+    "CapitalNameJapanese": "宇都宮市",
+    "CapitalCoordinates": [
+      139.883591,
+      36.56591
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C",
+    "CapitalSourceTitle": "栃木県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "10",
+    "PrefectureName": "Gunma",
+    "PrefectureNameJapanese": "群馬県",
+    "CapitalName": "Maebashi",
+    "CapitalNameJapanese": "前橋市",
+    "CapitalCoordinates": [
+      139.060455,
+      36.39069
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+    "CapitalSourceTitle": "群馬県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "11",
+    "PrefectureName": "Saitama",
+    "PrefectureNameJapanese": "埼玉県",
+    "CapitalName": "Saitama",
+    "CapitalNameJapanese": "さいたま市",
+    "CapitalCoordinates": [
+      139.649017,
+      35.857033
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+    "CapitalSourceTitle": "埼玉県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "12",
+    "PrefectureName": "Chiba",
+    "PrefectureNameJapanese": "千葉県",
+    "CapitalName": "Chiba",
+    "CapitalNameJapanese": "千葉市",
+    "CapitalCoordinates": [
+      140.123154,
+      35.604561
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C",
+    "CapitalSourceTitle": "千葉県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "13",
+    "PrefectureName": "Tokyo",
+    "PrefectureNameJapanese": "東京都",
+    "CapitalName": "Tokyo",
+    "CapitalNameJapanese": "東京",
+    "CapitalCoordinates": [
+      139.691727,
+      35.689503
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD",
+    "CapitalSourceTitle": "東京都",
+    "CapitalPointKind": "metropolitan-government-seat-reference-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "14",
+    "PrefectureName": "Kanagawa",
+    "PrefectureNameJapanese": "神奈川県",
+    "CapitalName": "Yokohama",
+    "CapitalNameJapanese": "横浜市",
+    "CapitalCoordinates": [
+      139.642532,
+      35.447735
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
+    "CapitalSourceTitle": "神奈川県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "15",
+    "PrefectureName": "Niigata",
+    "PrefectureNameJapanese": "新潟県",
+    "CapitalName": "Niigata",
+    "CapitalNameJapanese": "新潟市",
+    "CapitalCoordinates": [
+      139.023239,
+      37.902451
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+    "CapitalSourceTitle": "新潟県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "16",
+    "PrefectureName": "Toyama",
+    "PrefectureNameJapanese": "富山県",
+    "CapitalName": "Toyama",
+    "CapitalNameJapanese": "富山市",
+    "CapitalCoordinates": [
+      137.211304,
+      36.695267
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+    "CapitalSourceTitle": "富山県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "17",
+    "PrefectureName": "Ishikawa",
+    "PrefectureNameJapanese": "石川県",
+    "CapitalName": "Kanazawa",
+    "CapitalNameJapanese": "金沢市",
+    "CapitalCoordinates": [
+      136.625671,
+      36.594604
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%9F%B3%E5%B7%9D%E7%9C%8C",
+    "CapitalSourceTitle": "石川県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "18",
+    "PrefectureName": "Fukui",
+    "PrefectureNameJapanese": "福井県",
+    "CapitalName": "Fukui",
+    "CapitalNameJapanese": "福井市",
+    "CapitalCoordinates": [
+      136.221725,
+      36.065208
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E4%BA%95%E7%9C%8C",
+    "CapitalSourceTitle": "福井県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "19",
+    "PrefectureName": "Yamanashi",
+    "PrefectureNameJapanese": "山梨県",
+    "CapitalName": "Kofu",
+    "CapitalNameJapanese": "甲府市",
+    "CapitalCoordinates": [
+      138.568451,
+      35.664108
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+    "CapitalSourceTitle": "山梨県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "20",
+    "PrefectureName": "Nagano",
+    "PrefectureNameJapanese": "長野県",
+    "CapitalName": "Nagano",
+    "CapitalNameJapanese": "長野市",
+    "CapitalCoordinates": [
+      138.180908,
+      36.651306
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%95%B7%E9%87%8E%E7%9C%8C",
+    "CapitalSourceTitle": "長野県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "21",
+    "PrefectureName": "Gifu",
+    "PrefectureNameJapanese": "岐阜県",
+    "CapitalName": "Gifu",
+    "CapitalNameJapanese": "岐阜市",
+    "CapitalCoordinates": [
+      136.723663,
+      35.391174
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B2%90%E9%98%9C%E7%9C%8C",
+    "CapitalSourceTitle": "岐阜県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "22",
+    "PrefectureName": "Shizuoka",
+    "PrefectureNameJapanese": "静岡県",
+    "CapitalName": "Shizuoka",
+    "CapitalNameJapanese": "静岡市",
+    "CapitalCoordinates": [
+      138.383057,
+      34.976944
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%9D%99%E5%B2%A1%E7%9C%8C",
+    "CapitalSourceTitle": "静岡県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "23",
+    "PrefectureName": "Aichi",
+    "PrefectureNameJapanese": "愛知県",
+    "CapitalName": "Nagoya",
+    "CapitalNameJapanese": "名古屋市",
+    "CapitalCoordinates": [
+      136.906586,
+      35.18021
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%84%9B%E7%9F%A5%E7%9C%8C",
+    "CapitalSourceTitle": "愛知県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "24",
+    "PrefectureName": "Mie",
+    "PrefectureNameJapanese": "三重県",
+    "CapitalName": "Tsu",
+    "CapitalNameJapanese": "津市",
+    "CapitalCoordinates": [
+      136.508606,
+      34.730278
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%B8%89%E9%87%8D%E7%9C%8C",
+    "CapitalSourceTitle": "三重県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "25",
+    "PrefectureName": "Shiga",
+    "PrefectureNameJapanese": "滋賀県",
+    "CapitalName": "Otsu",
+    "CapitalNameJapanese": "大津市",
+    "CapitalCoordinates": [
+      135.868561,
+      35.004513
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C",
+    "CapitalSourceTitle": "滋賀県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "26",
+    "PrefectureName": "Kyoto",
+    "PrefectureNameJapanese": "京都府",
+    "CapitalName": "Kyoto",
+    "CapitalNameJapanese": "京都市",
+    "CapitalCoordinates": [
+      135.755615,
+      35.02124
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C",
+    "CapitalSourceTitle": "京都府",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "27",
+    "PrefectureName": "Osaka",
+    "PrefectureNameJapanese": "大阪府",
+    "CapitalName": "Osaka",
+    "CapitalNameJapanese": "大阪市",
+    "CapitalCoordinates": [
+      135.520035,
+      34.686344
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C",
+    "CapitalSourceTitle": "大阪府",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "28",
+    "PrefectureName": "Hyogo",
+    "PrefectureNameJapanese": "兵庫県",
+    "CapitalName": "Kobe",
+    "CapitalNameJapanese": "神戸市",
+    "CapitalCoordinates": [
+      135.183075,
+      34.691257
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "CapitalSourceTitle": "兵庫県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "29",
+    "PrefectureName": "Nara",
+    "PrefectureNameJapanese": "奈良県",
+    "CapitalName": "Nara",
+    "CapitalNameJapanese": "奈良市",
+    "CapitalCoordinates": [
+      135.832855,
+      34.685272
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C",
+    "CapitalSourceTitle": "奈良県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "30",
+    "PrefectureName": "Wakayama",
+    "PrefectureNameJapanese": "和歌山県",
+    "CapitalName": "Wakayama",
+    "CapitalNameJapanese": "和歌山市",
+    "CapitalCoordinates": [
+      135.167496,
+      34.226112
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C",
+    "CapitalSourceTitle": "和歌山県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "31",
+    "PrefectureName": "Tottori",
+    "PrefectureNameJapanese": "鳥取県",
+    "CapitalName": "Tottori",
+    "CapitalNameJapanese": "鳥取市",
+    "CapitalCoordinates": [
+      134.238266,
+      35.503448
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%B3%A5%E5%8F%96%E7%9C%8C",
+    "CapitalSourceTitle": "鳥取県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "32",
+    "PrefectureName": "Shimane",
+    "PrefectureNameJapanese": "島根県",
+    "CapitalName": "Matsue",
+    "CapitalNameJapanese": "松江市",
+    "CapitalCoordinates": [
+      133.050522,
+      35.472294
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B3%B6%E6%A0%B9%E7%9C%8C",
+    "CapitalSourceTitle": "島根県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "33",
+    "PrefectureName": "Okayama",
+    "PrefectureNameJapanese": "岡山県",
+    "CapitalName": "Okayama",
+    "CapitalNameJapanese": "岡山市",
+    "CapitalCoordinates": [
+      133.935028,
+      34.661739
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B2%A1%E5%B1%B1%E7%9C%8C",
+    "CapitalSourceTitle": "岡山県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "34",
+    "PrefectureName": "Hiroshima",
+    "PrefectureNameJapanese": "広島県",
+    "CapitalName": "Hiroshima",
+    "CapitalNameJapanese": "広島市",
+    "CapitalCoordinates": [
+      132.459641,
+      34.396557
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%BA%83%E5%B3%B6%E7%9C%8C",
+    "CapitalSourceTitle": "広島県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "35",
+    "PrefectureName": "Yamaguchi",
+    "PrefectureNameJapanese": "山口県",
+    "CapitalName": "Yamaguchi",
+    "CapitalNameJapanese": "山口市",
+    "CapitalCoordinates": [
+      131.470657,
+      34.186043
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E5%8F%A3%E7%9C%8C",
+    "CapitalSourceTitle": "山口県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "36",
+    "PrefectureName": "Tokushima",
+    "PrefectureNameJapanese": "徳島県",
+    "CapitalName": "Tokushima",
+    "CapitalNameJapanese": "徳島市",
+    "CapitalCoordinates": [
+      134.55928,
+      34.065762
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%BE%B3%E5%B3%B6%E7%9C%8C",
+    "CapitalSourceTitle": "徳島県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "37",
+    "PrefectureName": "Kagawa",
+    "PrefectureNameJapanese": "香川県",
+    "CapitalName": "Takamatsu",
+    "CapitalNameJapanese": "高松市",
+    "CapitalCoordinates": [
+      134.043289,
+      34.340111
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%A6%99%E5%B7%9D%E7%9C%8C",
+    "CapitalSourceTitle": "香川県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "38",
+    "PrefectureName": "Ehime",
+    "PrefectureNameJapanese": "愛媛県",
+    "CapitalName": "Matsuyama",
+    "CapitalNameJapanese": "松山市",
+    "CapitalCoordinates": [
+      132.765686,
+      33.84164
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%84%9B%E5%AA%9B%E7%9C%8C",
+    "CapitalSourceTitle": "愛媛県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "39",
+    "PrefectureName": "Kochi",
+    "PrefectureNameJapanese": "高知県",
+    "CapitalName": "Kochi",
+    "CapitalNameJapanese": "高知市",
+    "CapitalCoordinates": [
+      133.531113,
+      33.559723
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%AB%98%E7%9F%A5%E7%9C%8C",
+    "CapitalSourceTitle": "高知県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "40",
+    "PrefectureName": "Fukuoka",
+    "PrefectureNameJapanese": "福岡県",
+    "CapitalName": "Fukuoka",
+    "CapitalNameJapanese": "福岡市",
+    "CapitalCoordinates": [
+      130.417969,
+      33.606388
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+    "CapitalSourceTitle": "福岡県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "41",
+    "PrefectureName": "Saga",
+    "PrefectureNameJapanese": "佐賀県",
+    "CapitalName": "Saga",
+    "CapitalNameJapanese": "佐賀市",
+    "CapitalCoordinates": [
+      130.298798,
+      33.249352
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BD%90%E8%B3%80%E7%9C%8C",
+    "CapitalSourceTitle": "佐賀県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "42",
+    "PrefectureName": "Nagasaki",
+    "PrefectureNameJapanese": "長崎県",
+    "CapitalName": "Nagasaki",
+    "CapitalNameJapanese": "長崎市",
+    "CapitalCoordinates": [
+      129.867249,
+      32.750038
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%95%B7%E5%B4%8E%E7%9C%8C",
+    "CapitalSourceTitle": "長崎県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "43",
+    "PrefectureName": "Kumamoto",
+    "PrefectureNameJapanese": "熊本県",
+    "CapitalName": "Kumamoto",
+    "CapitalNameJapanese": "熊本市",
+    "CapitalCoordinates": [
+      130.741577,
+      32.789799
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "CapitalSourceTitle": "熊本県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "44",
+    "PrefectureName": "Oita",
+    "PrefectureNameJapanese": "大分県",
+    "CapitalName": "Oita",
+    "CapitalNameJapanese": "大分市",
+    "CapitalCoordinates": [
+      131.61264,
+      33.238129
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E5%88%86%E7%9C%8C",
+    "CapitalSourceTitle": "大分県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "45",
+    "PrefectureName": "Miyazaki",
+    "PrefectureNameJapanese": "宮崎県",
+    "CapitalName": "Miyazaki",
+    "CapitalNameJapanese": "宮崎市",
+    "CapitalCoordinates": [
+      131.423889,
+      31.911034
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%AE%AE%E5%B4%8E%E7%9C%8C",
+    "CapitalSourceTitle": "宮崎県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "46",
+    "PrefectureName": "Kagoshima",
+    "PrefectureNameJapanese": "鹿児島県",
+    "CapitalName": "Kagoshima",
+    "CapitalNameJapanese": "鹿児島市",
+    "CapitalCoordinates": [
+      130.558029,
+      31.560171
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "CapitalSourceTitle": "鹿児島県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  },
+  {
+    "PrefectureCode": "47",
+    "PrefectureName": "Okinawa",
+    "PrefectureNameJapanese": "沖縄県",
+    "CapitalName": "Naha",
+    "CapitalNameJapanese": "那覇市",
+    "CapitalCoordinates": [
+      127.680923,
+      26.212444
+    ],
+    "CapitalSourceURL": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%B2%96%E7%B8%84%E7%9C%8C",
+    "CapitalSourceTitle": "沖縄県",
+    "CapitalPointKind": "prefecture-representative-point",
+    "CapitalSourceRetrieved": "2026-10-04"
+  }
+]

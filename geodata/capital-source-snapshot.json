@@ -1,0 +1,801 @@
+[
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8C%97%E6%B5%B7%E9%81%93",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          141.346878,
+          43.064323
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "北海道"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%9D%92%E6%A3%AE%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.740555,
+          40.824589
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "青森県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B2%A9%E6%89%8B%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          141.152695,
+          39.703526
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "岩手県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%AE%AE%E5%9F%8E%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.87207,
+          38.268578
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "宮城県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A7%8B%E7%94%B0%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.102386,
+          39.718624
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "秋田県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.363693,
+          38.240433
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "山形県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.467773,
+          37.750031
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "福島県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.446823,
+          36.341736
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "茨城県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          139.883591,
+          36.56591
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "栃木県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          139.060455,
+          36.39069
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "群馬県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          139.649017,
+          35.857033
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "埼玉県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          140.123154,
+          35.604561
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "千葉県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          139.691727,
+          35.689503
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "東京都"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          139.642532,
+          35.447735
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "神奈川県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%96%B0%E6%BD%9F%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          139.023239,
+          37.902451
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "新潟県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          137.211304,
+          36.695267
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "富山県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%9F%B3%E5%B7%9D%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          136.625671,
+          36.594604
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "石川県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E4%BA%95%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          136.221725,
+          36.065208
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "福井県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          138.568451,
+          35.664108
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "山梨県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%95%B7%E9%87%8E%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          138.180908,
+          36.651306
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "長野県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B2%90%E9%98%9C%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          136.723663,
+          35.391174
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "岐阜県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%9D%99%E5%B2%A1%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          138.383057,
+          34.976944
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "静岡県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%84%9B%E7%9F%A5%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          136.906586,
+          35.18021
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "愛知県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%B8%89%E9%87%8D%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          136.508606,
+          34.730278
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "三重県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          135.868561,
+          35.004513
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "滋賀県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          135.755615,
+          35.02124
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "京都府"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          135.520035,
+          34.686344
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "大阪府"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          135.183075,
+          34.691257
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "兵庫県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          135.832855,
+          34.685272
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "奈良県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          135.167496,
+          34.226112
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "和歌山県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%B3%A5%E5%8F%96%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          134.238266,
+          35.503448
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "鳥取県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B3%B6%E6%A0%B9%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          133.050522,
+          35.472294
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "島根県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B2%A1%E5%B1%B1%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          133.935028,
+          34.661739
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "岡山県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%BA%83%E5%B3%B6%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          132.459641,
+          34.396557
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "広島県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E5%8F%A3%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          131.470657,
+          34.186043
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "山口県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%BE%B3%E5%B3%B6%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          134.55928,
+          34.065762
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "徳島県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%A6%99%E5%B7%9D%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          134.043289,
+          34.340111
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "香川県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%84%9B%E5%AA%9B%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          132.765686,
+          33.84164
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "愛媛県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%AB%98%E7%9F%A5%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          133.531113,
+          33.559723
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "高知県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          130.417969,
+          33.606388
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "福岡県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BD%90%E8%B3%80%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          130.298798,
+          33.249352
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "佐賀県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%95%B7%E5%B4%8E%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          129.867249,
+          32.750038
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "長崎県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%86%8A%E6%9C%AC%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          130.741577,
+          32.789799
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "熊本県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E5%88%86%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          131.61264,
+          33.238129
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "大分県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%AE%AE%E5%B4%8E%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          131.423889,
+          31.911034
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "宮崎県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          130.558029,
+          31.560171
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "鹿児島県"
+      }
+    }
+  },
+  {
+    "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%B2%96%E7%B8%84%E7%9C%8C",
+    "feature": {
+      "geometry": {
+        "coordinates": [
+          127.680923,
+          26.212444
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "addressCode": "",
+        "title": "沖縄県"
+      }
+    }
+  }
+]
